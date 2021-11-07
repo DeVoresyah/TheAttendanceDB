@@ -5,5 +5,26 @@
     "timeEnd": 1636196400000,
     "clockIn": null,
     "clockOut": null
-  }
+  },
+  "next": [{
+    "schedule": 1636362000000,
+    "title": "Mediterania Garden Residence",
+    "timeStart": 1636362000000,
+    "timeEnd": 1636369200000
+  }, {
+    "schedule": 1636372800000,
+    "title": "Mediterania Garden Residence",
+    "timeStart": 1636372800000,
+    "timeEnd": 1636376400000
+  }, {
+    "schedule": 1636448400000,
+    "title": "Mediterania Garden Residence",
+    "timeStart": 1636448400000,
+    "timeEnd": 1636455600000
+  }, {
+    "schedule": 1636534800000,
+    "title": "Mediterania Garden Residence",
+    "timeStart": 1636534800000,
+    "timeEnd": 1636542000000
+  }]
 }
