@@ -1,5 +1,16 @@
 {
+  "places": [{
+    "id": 1,
+    "title": "Mediterania Garden Residence",
+    "address": "Main Lobby, Apartment Mediterania Garden Residence 1 (Bougenville Tower)",
+    "coordinate": {
+      "latitude": -6.1746735,
+      "longitude": 106.7859107
+    }
+  }],
   "today": {
+    "placeId": 1,
+    "id": 1,
     "title": "Mediterania Garden Residence",
     "timeStart": 1636189200000,
     "timeEnd": 1636196400000,
@@ -7,21 +18,29 @@
     "clockOut": null
   },
   "next": [{
+    "placeId": 1,
+    "id": 2,
     "schedule": 1636362000000,
     "title": "Mediterania Garden Residence",
     "timeStart": 1636362000000,
     "timeEnd": 1636369200000
   }, {
+    "placeId": 1,
+    "id": 2,
     "schedule": 1636372800000,
     "title": "Mediterania Garden Residence",
     "timeStart": 1636372800000,
     "timeEnd": 1636376400000
   }, {
+    "placeId": 1,
+    "id": 3,
     "schedule": 1636448400000,
     "title": "Mediterania Garden Residence",
     "timeStart": 1636448400000,
     "timeEnd": 1636455600000
   }, {
+    "placeId": 1,
+    "id": 4,
     "schedule": 1636534800000,
     "title": "Mediterania Garden Residence",
     "timeStart": 1636534800000,
